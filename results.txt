@@ -1,0 +1,7 @@
+### Results ###
+id  reg. type       r2_score   
+1   SVR             0.2973125221303492
+2   M. Linear Reg.  0.37126223845672046
+3   Poly. Reg.      0.4122655451635918
+4   Decision Trees  0.13640735990528785
+5   Random Forest   0.34637883142717096
